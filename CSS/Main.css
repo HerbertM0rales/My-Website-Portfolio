@@ -1,0 +1,53 @@
+body {
+    background-color: #222021;
+}
+
+.content{
+    
+    height: 40%;
+    width: 45%;
+    margin-left: 3%;
+    margin-top: 3%;
+
+    float: left;
+    background-color: #595a59;
+
+    display: table;
+}
+
+.content:hover{
+    background-color: #eee363;
+    border-radius: 10%;
+}
+
+.Text{
+    text-align: center;
+    vertical-align: middle;
+    display: table-cell;
+    color: #eee363	;
+    font-size: 250%;
+    font-weight: 900;
+    font-family: Roboto;
+    text-decoration: underline;
+
+}
+
+.Text:hover{
+    color: white;
+}
+
+#D1{
+
+}
+
+#D2{
+
+}
+
+#D3{
+
+}
+
+#D4{
+
+}
