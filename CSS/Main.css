@@ -2,9 +2,18 @@ body {
     background-color: #222021;
 }
 
+.Header{
+    background: linear-gradient(to left,
+    #eee363, #595a59);
+    height: 10%;
+    width: 100%;
+    box-shadow: black 10px 10px 10px 2.5px;
+    border-radius: 5px;
+}
+
 .content{
     
-    height: 40%;
+    height: 38%;
     width: 45%;
     margin-left: 3%;
     margin-top: 3%;
@@ -13,6 +22,8 @@ body {
     background-color: #595a59;
 
     display: table;
+
+    box-shadow: black 10px 10px 10px 2.5px;
 }
 
 .content:hover{
@@ -28,26 +39,12 @@ body {
     font-size: 250%;
     font-weight: 900;
     font-family: Roboto;
-    text-decoration: underline;
 
 }
 
 .Text:hover{
     color: white;
+    text-decoration: underline;
 }
 
-#D1{
 
-}
-
-#D2{
-
-}
-
-#D3{
-
-}
-
-#D4{
-
-}
